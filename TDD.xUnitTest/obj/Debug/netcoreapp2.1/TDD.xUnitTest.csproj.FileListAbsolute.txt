@@ -1,0 +1,17 @@
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\obj\Debug\netcoreapp2.1\TDD.xUnitTest.csprojAssemblyReference.cache
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\obj\Debug\netcoreapp2.1\TDD.xUnitTest.csproj.CoreCompileInputs.cache
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\obj\Debug\netcoreapp2.1\TDD.xUnitTest.AssemblyInfoInputs.cache
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\obj\Debug\netcoreapp2.1\TDD.xUnitTest.AssemblyInfo.cs
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\TDD.xUnitTest.deps.json
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\TDD.xUnitTest.runtimeconfig.json
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\TDD.xUnitTest.runtimeconfig.dev.json
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\TDD.xUnitTest.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\Calculator.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\Calculator.pdb
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\obj\Debug\netcoreapp2.1\TDD.xUnitTest.csproj.CopyComplete
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\bin\Debug\netcoreapp2.1\TDD.xUnitTest.pdb
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\obj\Debug\netcoreapp2.1\TDD.xUnitTest.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\TDD.xUnitTest\obj\Debug\netcoreapp2.1\TDD.xUnitTest.pdb

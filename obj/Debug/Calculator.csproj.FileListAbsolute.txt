@@ -1,0 +1,6 @@
+c:\users\cb185249\source\repos\TDD.xUnitTest\Calculator\bin\Debug\Calculator.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\Calculator\bin\Debug\Calculator.pdb
+c:\users\cb185249\source\repos\TDD.xUnitTest\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+c:\users\cb185249\source\repos\TDD.xUnitTest\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\cb185249\source\repos\TDD.xUnitTest\Calculator\obj\Debug\Calculator.dll
+c:\users\cb185249\source\repos\TDD.xUnitTest\Calculator\obj\Debug\Calculator.pdb
